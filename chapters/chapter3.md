@@ -2,59 +2,58 @@
 
 ## Plain English Explanation
 
-Chapter III of the Australian Constitution establishes the judicial branch of the Australian government. This chapter, covering sections 71-80, creates the High Court of Australia and the framework for the federal court system. It sets out the independence of the judiciary and its role in interpreting laws and resolving disputes.
+Chapter III of the Australian Constitution establishes the judicial branch of the Australian government, including the High Court of Australia and other federal courts. This chapter includes Sections 71-80.
 
-## Section 71 - Judicial power and Courts
+### Section 71 - Judicial power and Courts
 
 **Original Text:**
 > The judicial power of the Commonwealth shall be vested in a Federal Supreme Court, to be called the High Court of Australia, and in such other federal courts as the Parliament creates, and in such other courts as it invests with federal jurisdiction. The High Court shall consist of a Chief Justice, and so many other Justices, not less than two, as the Parliament prescribes.
 
 **Plain English:**
-The judicial power of Australia is held by:
-1. The High Court of Australia, which is the country's highest court
+The judicial power of the Commonwealth (the power to interpret laws and decide cases) belongs to:
+1. The High Court of Australia
 2. Other federal courts created by Parliament
-3. State and territory courts that Parliament gives federal jurisdiction to
+3. State or territory courts given federal powers by Parliament
 
-The High Court must have at least three judges: a Chief Justice and at least two other Justices. Parliament can decide to have more than three judges.
+The High Court must have a Chief Justice and at least two other Justices. Parliament can decide the exact number.
+
+This section establishes Australia's highest court and the foundations of the federal court system.
 
 **Key Cases:**
-- **Re Judiciary and Navigation Acts (1921)**: Established that federal courts cannot give advisory opinions. The judicial power under Chapter III is limited to determining actual controversies about legal rights.
+- **Re Judiciary and Navigation Acts (1921)**: The High Court held that Chapter III gives it authority to determine the constitutional validity of legislation, but it cannot give advisory opinions.
 
-## Section 72 - Judges' appointment, tenure, and remuneration
+### Section 72 - Judges' appointment, tenure, and remuneration
 
 **Original Text:**
-> The Justices of the High Court and of the other courts created by the Parliament—
+> The Justices of the High Court and of the other courts created by the Parliament:
 > 
-> (i) shall be appointed by the Governor-General in Council;
+> (i) Shall be appointed by the Governor-General in Council:
 > 
-> (ii) shall not be removed except by the Governor-General in Council, on an address from both Houses of the Parliament in the same session, praying for such removal on the ground of proved misbehaviour or incapacity;
+> (ii) Shall not be removed except by the Governor-General in Council, on an address from both Houses of the Parliament in the same session, praying for such removal on the ground of proved misbehaviour or incapacity:
 > 
-> (iii) shall receive such remuneration as the Parliament may fix; but the remuneration shall not be diminished during their continuance in office.
+> (iii) Shall receive such remuneration as the Parliament may fix; but the remuneration shall not be diminished during their continuance in office.
 
 **Plain English:**
-For judges of the High Court and other federal courts:
-1. They are appointed by the Governor-General acting on the advice of the Federal Executive Council (effectively, the government)
-2. They can only be removed if:
-   - Both houses of Parliament agree in the same session
-   - The removal is based on proven misbehavior or incapacity
-   - The Governor-General in Council formally removes them
-3. Parliament sets their salary, but cannot reduce it while they remain in office
+Judges of the High Court and other federal courts:
+1. Are appointed by the Governor-General acting on the advice of the Federal Executive Council (in practice, the government)
+2. Can only be removed if both Houses of Parliament agree in the same session, and only if the judge has been proven to have misbehaved or is incapable of performing their duties
+3. Receive a salary set by Parliament, which cannot be reduced while they are in office
 
-This section protects judicial independence by ensuring judges cannot be easily removed from office or have their salaries reduced.
+These provisions protect judicial independence by ensuring judges can't be easily removed or have their pay cut for making unpopular decisions.
 
 **Key Cases:**
-- **Waterside Workers' Federation of Australia v J W Alexander Ltd (1918)**: Established that Chapter III courts must have judges with secure tenure as provided in section 72.
+None specifically interpreting this section, though a 1977 referendum amended the Constitution to include a retirement age of 70 for federal judges.
 
-## Section 73 - Appellate jurisdiction of High Court
+### Section 73 - Appellate jurisdiction of High Court
 
 **Original Text:**
 > The High Court shall have jurisdiction, with such exceptions and subject to such regulations as the Parliament prescribes, to hear and determine appeals from all judgments, decrees, orders, and sentences:
 > 
-> (i) of any Justice or Justices exercising the original jurisdiction of the High Court;
+> (i) Of any Justice or Justices exercising the original jurisdiction of the High Court:
 > 
-> (ii) of any other federal court, or court exercising federal jurisdiction; or of the Supreme Court of any State, or of any other court of any State from which at the establishment of the Commonwealth an appeal lies to the Queen in Council;
+> (ii) Of any other federal court, or court exercising federal jurisdiction; or of the Supreme Court of any State, or of any other court of any State from which at the establishment of the Commonwealth an appeal lies to the Queen in Council:
 > 
-> (iii) of the Inter-State Commission, but as to questions of law only;
+> (iii) Of the Inter-State Commission, but as to questions of law only:
 > 
 > and the judgment of the High Court in all such cases shall be final and conclusive.
 > 
@@ -64,19 +63,21 @@ This section protects judicial independence by ensuring judges cannot be easily 
 
 **Plain English:**
 The High Court has the power to hear appeals from:
-1. Decisions made by one or more High Court judges exercising original jurisdiction
-2. Decisions of other federal courts or courts exercising federal jurisdiction
-3. Decisions of state Supreme Courts or other state courts that could previously appeal to the Privy Council
-4. Decisions of the Inter-State Commission, but only on questions of law
+1. Decisions made by High Court Justices when they exercise original jurisdiction
+2. Any other federal court or court exercising federal jurisdiction
+3. State Supreme Courts
+4. The Inter-State Commission (which was never established), but only on questions of law
 
-The High Court's decisions on these appeals are final. Parliament can create exceptions to this appellate jurisdiction, but cannot prevent appeals from state Supreme Courts in matters that could have been appealed to the Privy Council when the Constitution was created.
+The High Court's judgments on these matters are final and conclusive.
 
-Until Parliament legislates otherwise, the rules governing appeals from state Supreme Courts to the High Court are the same as those that previously applied to appeals to the Privy Council.
+Parliament can make laws about exceptions and regulations to these appeal rights, but it cannot prevent the High Court from hearing appeals from State Supreme Courts in matters that could have been appealed to the Privy Council in London at the time of Federation.
+
+Until Parliament makes other provisions, the rules for appeals from State Supreme Courts to the High Court are the same as those that applied to appeals to the Privy Council.
 
 **Key Cases:**
-- **Smith Kline & French Laboratories (Australia) Ltd v Commonwealth (1991)**: Clarified the scope of the High Court's appellate jurisdiction and its relationship to the original jurisdiction.
+- **Parker v The Queen (1963)**: The High Court asserted its ability to depart from decisions of the Privy Council, establishing its position as Australia's ultimate appellate court.
 
-## Section 74 - Appeal to Queen in Council
+### Section 74 - Appeal to Queen in Council
 
 **Original Text:**
 > No appeal shall be permitted to the Queen in Council from a decision of the High Court upon any question, howsoever arising, as to the limits inter se of the Constitutional powers of the Commonwealth and those of any State or States, or as to the limits inter se of the Constitutional powers of any two or more States, unless the High Court shall certify that the question is one which ought to be determined by Her Majesty in Council.
@@ -86,128 +87,130 @@ Until Parliament legislates otherwise, the rules governing appeals from state Su
 > Except as provided in this section, this Constitution shall not impair any right which the Queen may be pleased to exercise by virtue of Her Royal prerogative to grant special leave of appeal from the High Court to Her Majesty in Council. The Parliament may make laws limiting the matters in which such leave may be asked, but proposed laws containing any such limitation shall be reserved by the Governor-General for Her Majesty's pleasure.
 
 **Plain English:**
-Appeals from the High Court to the Privy Council (the Queen in Council) on questions about the distribution of powers between the Commonwealth and States, or between States, are only allowed if the High Court certifies that the question should be determined by the Privy Council.
+Appeals from the High Court to the Privy Council in London (referred to as "the Queen in Council") are not allowed on questions about the constitutional powers of the Commonwealth versus the States, or the constitutional powers of different States against each other, unless the High Court certifies that the question should be decided by the Privy Council.
 
-For other matters, appeals to the Privy Council are allowed unless Parliament restricts them, but any legislation creating such restrictions requires the Queen's approval.
+The High Court can issue such a certificate if it believes there is a special reason to do so.
 
-In practice, all appeals from Australian courts to the Privy Council have been abolished by legislation, including the Privy Council (Limitation of Appeals) Act 1968, the Privy Council (Appeals from the High Court) Act 1975, and finally by the Australia Acts 1986.
+Apart from these constitutional questions, the Queen retains the right to grant special permission for appeals from the High Court to the Privy Council. Parliament can limit the matters in which such permission can be requested, but any such legislation must receive the Queen's approval.
+
+In practice, appeals to the Privy Council were abolished by the Australia Act 1986, so this section is now largely historical.
 
 **Key Cases:**
-- **Kirmani v Captain Cook Cruises Pty Ltd (No 2) (1985)**: The High Court indicated it would never again grant a certificate allowing appeal to the Privy Council under section 74.
+- **Kirmani v Captain Cook Cruises Pty Ltd (No 2) (1985)**: The High Court indicated it would never again grant a certificate allowing appeal to the Privy Council.
 
-## Section 75 - Original jurisdiction of High Court
+### Section 75 - Original jurisdiction of High Court
 
 **Original Text:**
 > In all matters:
 > 
-> (i) arising under any treaty;
+> (i) Arising under any treaty:
 > 
-> (ii) affecting consuls or other representatives of other countries;
+> (ii) Affecting consuls or other representatives of other countries:
 > 
-> (iii) in which the Commonwealth, or a person suing or being sued on behalf of the Commonwealth, is a party;
+> (iii) In which the Commonwealth, or a person suing or being sued on behalf of the Commonwealth, is a party:
 > 
-> (iv) between States, or between residents of different States, or between a State and a resident of another State;
+> (iv) Between States, or between residents of different States, or between a State and a resident of another State:
 > 
-> (v) in which a writ of Mandamus or prohibition or an injunction is sought against an officer of the Commonwealth;
+> (v) In which a writ of Mandamus or prohibition or an injunction is sought against an officer of the Commonwealth:
 > 
 > the High Court shall have original jurisdiction.
 
 **Plain English:**
-The High Court has original jurisdiction (the power to hear a case for the first time, not just on appeal) in the following matters:
-1. Cases arising under treaties
-2. Cases involving foreign consuls or other representatives
-3. Cases where the Commonwealth is a party
-4. Cases between states, or residents of different states, or between a state and a resident of another state
-5. Cases where someone is seeking a court order (mandamus, prohibition, or injunction) against a Commonwealth officer
+The High Court has original jurisdiction (the power to hear cases from the beginning, not just on appeal) in matters:
+1. Arising under any treaty
+2. Affecting foreign consuls or representatives
+3. Where the Commonwealth is a party to the case
+4. Between States, between residents of different States, or between a State and a resident of another State
+5. Where someone seeks a writ of mandamus (an order to make a public official do their duty), prohibition (an order stopping someone from doing something), or an injunction (a court order requiring someone to do or not do something) against a Commonwealth officer
 
-This section guarantees that certain important matters can be heard directly by the High Court.
+This section gives the High Court power to be the first court to hear certain important matters.
 
 **Key Cases:**
-- **Plaintiff S157/2002 v Commonwealth (2003)**: Affirmed the constitutional importance of section 75(v) in providing judicial review of administrative actions and protecting against jurisdictional error.
+- **Plaintiff S157/2002 v Commonwealth (2003)**: The High Court held that Section 75(v) provides an entrenched minimum provision of judicial review that cannot be removed by Parliament, ensuring government officials always remain subject to the rule of law.
 
-## Section 76 - Additional original jurisdiction
+### Section 76 - Additional original jurisdiction
 
 **Original Text:**
 > The Parliament may make laws conferring original jurisdiction on the High Court in any matter:
 > 
-> (i) arising under this Constitution, or involving its interpretation;
+> (i) Arising under this Constitution, or involving its interpretation:
 > 
-> (ii) arising under any laws made by the Parliament;
+> (ii) Arising under any laws made by the Parliament:
 > 
-> (iii) of Admiralty and maritime jurisdiction;
+> (iii) Of Admiralty and maritime jurisdiction:
 > 
-> (iv) relating to the same subject-matter claimed under the laws of different States.
+> (iv) Relating to the same subject-matter claimed under the laws of different States.
 
 **Plain English:**
-Parliament can make laws giving the High Court original jurisdiction in the following matters:
-1. Cases arising under the Constitution or involving its interpretation
-2. Cases arising under Commonwealth laws
-3. Cases involving admiralty and maritime jurisdiction
-4. Cases relating to the same subject matter claimed under the laws of different states
+Parliament can make laws giving the High Court original jurisdiction (power to hear cases from the beginning) in matters:
+1. Arising under the Constitution or involving its interpretation
+2. Arising under any Commonwealth laws
+3. Involving admiralty and maritime jurisdiction (laws relating to ships and the sea)
+4. Relating to the same subject matter claimed under the laws of different States
 
-This section allows Parliament to expand the High Court's original jurisdiction beyond the matters listed in section 75.
+This section allows Parliament to expand the High Court's original jurisdiction beyond what is specified in Section 75.
 
 **Key Cases:**
-- **In re Judiciary and Navigation Acts (1921)**: Discussed the scope of section 76(i) and held that Parliament cannot confer non-judicial power on the High Court.
+- **In re Judiciary and Navigation Acts (1921)**: Clarified that Parliament cannot expand the High Court's jurisdiction beyond the "matters" specified in Sections 75 and 76.
 
-## Section 77 - Power to define jurisdiction
+### Section 77 - Power to define jurisdiction
 
 **Original Text:**
 > With respect to any of the matters mentioned in the last two sections the Parliament may make laws:
 > 
-> (i) defining the jurisdiction of any federal court other than the High Court;
+> (i) Defining the jurisdiction of any federal court other than the High Court:
 > 
-> (ii) defining the extent to which the jurisdiction of any federal court shall be exclusive of that which belongs to or is invested in the courts of the States;
+> (ii) Defining the extent to which the jurisdiction of any federal court shall be exclusive of that which belongs to or is invested in the courts of the States:
 > 
-> (iii) investing any court of a State with federal jurisdiction.
+> (iii) Investing any court of a State with federal jurisdiction.
 
 **Plain English:**
-For the matters mentioned in sections 75 and 76, Parliament can make laws:
+Regarding the matters mentioned in Sections 75 and 76, Parliament can make laws:
 1. Defining the jurisdiction of federal courts other than the High Court
-2. Deciding which matters can only be heard by federal courts and not by state courts
+2. Specifying which federal court matters cannot be heard by state courts
 3. Giving state courts the power to hear federal matters
 
-This section allows Parliament to organize the court system efficiently, including by giving state courts the power to hear federal matters.
+This section allows Parliament to structure the federal court system and allocate jurisdiction between federal and state courts.
 
 **Key Cases:**
-- **R v Kirby; Ex parte Boilermakers' Society of Australia (1956)**: Addressed the separation of judicial power and informed how Parliament can define jurisdiction under section 77.
+None specifically interpreting this section.
 
-## Section 78 - Proceedings against Commonwealth or State
+### Section 78 - Proceedings against Commonwealth or State
 
 **Original Text:**
-> The Parliament may make laws conferring rights to proceed against the Commonwealth or a State in respect of matters within the judicial power.
+> The Parliament may make laws conferring rights to proceed against the Commonwealth or a State in respect of matters within the limits of the judicial power.
 
 **Plain English:**
-Parliament can make laws allowing people to sue the Commonwealth or a state in federal matters.
+Parliament can make laws allowing people to take legal action against the Commonwealth or a State in matters within the scope of federal judicial power.
 
-This section addresses sovereign immunity (the traditional principle that the government cannot be sued without its consent) and allows Parliament to determine when the Commonwealth or states can be sued.
+This section allows Parliament to determine when and how governments can be sued in court.
 
 **Key Cases:**
-- **Commonwealth v Mewett (1997)**: Considered whether section 78 allowed Parliament to extinguish common law rights to sue the Commonwealth.
+None specifically interpreting this section.
 
-## Section 79 - Number of judges
+### Section 79 - Number of judges
 
 **Original Text:**
 > The federal jurisdiction of any court may be exercised by such number of judges as the Parliament prescribes.
 
 **Plain English:**
-Parliament can decide how many judges are needed to hear federal cases in any court.
+Parliament can decide how many judges are needed to exercise federal jurisdiction in any court.
 
-This allows Parliament to determine whether federal cases in particular courts should be heard by a single judge or multiple judges.
+This allows Parliament to determine the size of federal courts (other than the High Court's minimum size specified in Section 71).
 
 **Key Cases:**
 None specifically interpreting this section.
 
-## Section 80 - Trial by jury
+### Section 80 - Trial by jury
 
 **Original Text:**
 > The trial on indictment of any offence against any law of the Commonwealth shall be by jury, and every such trial shall be held in the State where the offence was committed, and if the offence was not committed within any State the trial shall be held at such place or places as the Parliament prescribes.
 
 **Plain English:**
-When someone is charged with a serious Commonwealth offense by indictment, they have the right to a trial by jury. The trial must be held in the state where the offense was committed. If the offense wasn't committed in any state, Parliament can decide where the trial should be held.
+When someone is charged with a serious Commonwealth offense that proceeds by indictment (a formal charge), they must be tried by a jury. The trial must take place in the State where the offense was committed. If the offense was not committed within any State, Parliament can decide where the trial should be held.
 
-This section provides a limited constitutional guarantee of trial by jury, but only for Commonwealth offenses prosecuted on indictment.
+This section provides a constitutional right to jury trial for indictable federal offenses.
 
 **Key Cases:**
-- **R v Archdall & Roskruge; Ex parte Carrigan and Brown (1928)**: The High Court held that Parliament can determine which offenses are tried on indictment, thus controlling when the right to jury trial applies.
-- **Cheatle v The Queen (1993)**: Held that section 80 requires a unanimous jury verdict for conviction in a federal criminal trial.
+- **Cheatle v The Queen (1993)**: The High Court held that Section 80 requires a unanimous jury verdict for a conviction.
+- **Kingswell v The Queen (1985)**: The Court held that Parliament can determine whether an offense is tried on indictment (therefore requiring a jury) or summarily (without a jury).
