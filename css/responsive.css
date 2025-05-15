@@ -1,0 +1,138 @@
+/* Responsive CSS for Australian Constitution Guide */
+
+/* Tablet Styles */
+@media screen and (max-width: 992px) {
+    .container {
+        max-width: 100%;
+    }
+    
+    .sidebar {
+        width: 240px;
+    }
+    
+    .content {
+        padding: 1.5rem;
+    }
+    
+    header h1 {
+        font-size: 1.8rem;
+    }
+}
+
+/* Mobile Styles */
+@media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+    
+    .sidebar {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+        max-height: 300px;
+        overflow-y: auto;
+    }
+    
+    .content {
+        padding: 1rem;
+    }
+    
+    header h1 {
+        font-size: 1.5rem;
+    }
+    
+    h1 {
+        font-size: 1.8rem;
+    }
+    
+    h2 {
+        font-size: 1.3rem;
+    }
+    
+    .tab-nav {
+        flex-wrap: wrap;
+    }
+    
+    .tab-link {
+        padding: 0.3rem 0.8rem;
+    }
+    
+    .back-to-top {
+        bottom: 1rem;
+        right: 1rem;
+    }
+}
+
+/* Small Mobile Styles */
+@media screen and (max-width: 480px) {
+    header h1 {
+        font-size: 1.3rem;
+    }
+    
+    h1 {
+        font-size: 1.6rem;
+    }
+    
+    .search-container {
+        flex-direction: column;
+    }
+    
+    .search-box {
+        border-radius: 4px;
+        margin-bottom: 0.5rem;
+    }
+    
+    #search-btn {
+        border-radius: 4px;
+        width: 100%;
+    }
+    
+    .content {
+        padding: 0.8rem;
+    }
+}
+
+/* Print Styles */
+@media print {
+    .sidebar, .back-to-top, footer, .search-container, .tab-nav {
+        display: none;
+    }
+    
+    .container {
+        display: block;
+    }
+    
+    .content {
+        width: 100%;
+        padding: 0;
+    }
+    
+    h1, h2, h3 {
+        page-break-after: avoid;
+    }
+    
+    .case-example {
+        page-break-inside: avoid;
+        border: 1px solid #ddd;
+        border-left: 4px solid #ddd;
+    }
+    
+    body {
+        font-size: 12pt;
+        line-height: 1.4;
+    }
+    
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    a[href]:after {
+        content: " (" attr(href) ")";
+        font-size: 90%;
+    }
+    
+    a[href^="#"]:after {
+        content: "";
+    }
+}
