@@ -1,0 +1,323 @@
+/* Main CSS for Australian Constitution Guide */
+
+:root {
+    --primary-color: #013220; /* Dark green */
+    --secondary-color: #FFD700; /* Gold */
+    --background-color: #f9f9f9;
+    --text-color: #333;
+    --highlight-color: #fef4d1;
+    --border-color: #ddd;
+    --header-font: 'Georgia', serif;
+    --body-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--body-font);
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    padding: 0;
+    margin: 0;
+}
+
+/* Header */
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.5rem;
+}
+
+header h1 {
+    font-family: var(--header-font);
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Main Container */
+.container {
+    display: flex;
+    min-height: calc(100vh - 140px);
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 280px;
+    background-color: #f1f1f1;
+    padding: 1rem;
+    border-right: 1px solid var(--border-color);
+    overflow-y: auto;
+}
+
+.search-container {
+    margin-bottom: 1rem;
+    display: flex;
+}
+
+.search-box {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: 4px 0 0 4px;
+}
+
+#search-btn {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 0 4px 4px 0;
+}
+
+#search-btn:hover {
+    background-color: #024c30;
+}
+
+/* Navigation */
+.main-nav {
+    margin-bottom: 2rem;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-list li {
+    margin-bottom: 0.5rem;
+}
+
+.nav-list a {
+    display: block;
+    padding: 0.5rem;
+    color: var(--primary-color);
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.nav-list a:hover {
+    background-color: var(--highlight-color);
+}
+
+.nav-list a.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.nav-list ul {
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+    display: none;
+}
+
+.nav-list li.expanded > ul {
+    display: block;
+}
+
+/* External Links */
+.external-links {
+    border-top: 1px solid var(--border-color);
+    padding-top: 1rem;
+}
+
+.external-links h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+.external-links ul {
+    list-style: none;
+}
+
+.external-links li {
+    margin-bottom: 0.5rem;
+}
+
+.external-links a {
+    color: var(--primary-color);
+    text-decoration: none;
+    display: block;
+    padding: 0.3rem 0.5rem;
+    border-radius: 4px;
+}
+
+.external-links a:hover {
+    background-color: var(--highlight-color);
+}
+
+/* Main Content */
+.content {
+    flex: 1;
+    padding: 2rem;
+    overflow-y: auto;
+}
+
+/* Typography */
+h1, h2, h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-family: var(--header-font);
+}
+
+h1 {
+    font-size: 2rem;
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+ul, ol {
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Case Examples */
+.case-example {
+    background-color: var(--highlight-color);
+    border-left: 4px solid var(--secondary-color);
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 4px;
+}
+
+.case-title {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.case-citation {
+    font-style: italic;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.case-summary {
+    margin-top: 0.5rem;
+}
+
+/* Tabs */
+.tab-nav {
+    display: flex;
+    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 1rem;
+}
+
+.tab-link {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border: 1px solid transparent;
+}
+
+.tab-link.active {
+    border: 1px solid var(--border-color);
+    border-bottom-color: white;
+    border-radius: 4px 4px 0 0;
+    margin-bottom: -1px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.tab-content > div {
+    display: none;
+}
+
+.tab-content > div.active {
+    display: block;
+}
+
+/* Quotations */
+blockquote {
+    background-color: #f9f9f9;
+    border-left: 4px solid #ddd;
+    padding: 1rem;
+    margin: 1rem 0;
+    font-style: italic;
+}
+
+/* Footer */
+footer {
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Back to Top Button */
+.back-to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background-color: var(--primary-color);
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.back-to-top.visible {
+    opacity: 1;
+}
+
+.back-to-top:hover {
+    background-color: #024c30;
+}
+
+/* Loading Indicator */
+#loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 1.2rem;
+    color: var(--primary-color);
+}
