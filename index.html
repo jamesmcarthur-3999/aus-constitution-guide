@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Australian Constitution - Plain English Guide</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <h1>Australian Constitution in Plain English</h1>
+            <p>An interactive guide with High Court case examples</p>
+        </div>
+    </header>
+    
+    <div class="container">
+        <aside class="sidebar">
+            <div class="search-container">
+                <input type="text" class="search-box" id="search-box" placeholder="Search...">
+                <button id="search-btn">Search</button>
+            </div>
+            
+            <nav class="main-nav">
+                <ul class="nav-list" id="nav-list">
+                    <li><a href="#introduction" class="active">Introduction</a></li>
+                    <li>
+                        <a href="#chapter1">Chapter I - The Parliament</a>
+                        <ul>
+                            <li><a href="#part1">Part I - General</a></li>
+                            <li><a href="#part2">Part II - The Senate</a></li>
+                            <li><a href="#part3">Part III - House of Representatives</a></li>
+                            <li><a href="#part4">Part IV - Both Houses</a></li>
+                            <li><a href="#part5">Part V - Powers of Parliament</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#chapter2">Chapter II - Executive Government</a></li>
+                    <li><a href="#chapter3">Chapter III - The Judicature</a></li>
+                    <li><a href="#chapter4">Chapter IV - Finance and Trade</a></li>
+                    <li><a href="#chapter5">Chapter V - The States</a></li>
+                    <li><a href="#chapter6">Chapter VI - New States</a></li>
+                    <li><a href="#chapter7">Chapter VII - Miscellaneous</a></li>
+                    <li><a href="#chapter8">Chapter VIII - Altering the Constitution</a></li>
+                </ul>
+            </nav>
+            
+            <div class="external-links">
+                <h3>External Resources</h3>
+                <ul>
+                    <li><a href="https://www.aph.gov.au/constitution" target="_blank">Official Constitution Text</a></li>
+                    <li><a href="https://www.hcourt.gov.au/" target="_blank">High Court of Australia</a></li>
+                    <li><a href="https://peo.gov.au/" target="_blank">Parliamentary Education Office</a></li>
+                </ul>
+            </div>
+        </aside>
+        
+        <main class="content" id="content">
+            <!-- Content will be loaded dynamically via JavaScript -->
+            <div id="loading">Loading...</div>
+            <div id="root"></div>
+        </main>
+    </div>
+    
+    <footer>
+        <p>Australian Constitution in Plain English | Created for educational purposes | &copy; 2025</p>
+        <p><a href="https://github.com/jamesmcarthur-3999/aus-constitution-guide" target="_blank">View on GitHub</a></p>
+    </footer>
+    
+    <div class="back-to-top" id="back-to-top">↑</div>
+    
+    <script src="js/app.js"></script>
+    <script src="js/navigation.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/tabs.js"></script>
+    <script src="js/cases.js"></script>
+</body>
+</html>
